@@ -1,0 +1,14 @@
+{
+  "name": "taskchain",
+  "version": "1.0.0",
+  "description": "taskchain is a blockchain smart contract scrum tracking application developed utilizing solidity.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.6.1"
+  }
+}
